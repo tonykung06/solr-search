@@ -1,0 +1,2 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Before\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearch.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D1\Before\M2.D1.SimpleSearchREST\bin\Debug\M2.D1.SimpleSearchREST.exe.config

@@ -1,0 +1,15 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\bin\Debug\IndexConsole.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\bin\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\bin\Debug\IndexConsole.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\obj\Debug\M5.1.IndexConsole.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\obj\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\2.IndexConsole\obj\Debug\IndexConsole.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\obj\Debug\M5.1.IndexConsole.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\obj\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\bin\Debug\IndexConsole.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\bin\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\bin\Debug\IndexConsole.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\2.IndexConsole\obj\Debug\IndexConsole.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D1\Before\M5.D1.IndexConsole\bin\Debug\IndexConsole.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D1\Before\M5.D1.IndexConsole\obj\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D1\Before\M5.D1.IndexConsole\obj\Debug\IndexConsole.pdb

@@ -1,0 +1,11 @@
+Solr Configuration
+In this demo we will learn how to configure Solr parameters in Solrconfig.xml. Several changes are going to be used to demonstrate changes that can take place. Changes are done in the coursesdemo core (not in courses as it will be used for a different purpose)
+1. Open Solr in localhost:8983. Select coursesdemo core and run a search. Confirm that all ~5088 courses are being returned. If this is not the case, please either index all courses using M5 D2 or stop Solr, copy the core and restart it.
+2. Now open from your Solr installation folder, solrconfig.xml. We are going to learn to differentiate 
+- Default operator via q.op
+- Pass parameters to REST API and set from solrconfig.xml
+- Defaults, appends and invariants 
+- Change rows as parameters
+- Set qf to include fields
+- I suggest you test and investigate with copyfields
+- Add facets as part of the defaults

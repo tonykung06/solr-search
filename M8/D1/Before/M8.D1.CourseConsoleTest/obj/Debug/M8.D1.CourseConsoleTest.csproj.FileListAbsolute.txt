@@ -1,0 +1,10 @@
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\obj\Debug\CourseConsoleTest.exe
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\obj\Debug\CourseConsoleTest.pdb
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\CourseConsoleTest.exe
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\CourseConsoleTest.pdb
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\SearchLibrary.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\SolrNet.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\HttpWebAdapters.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\bin\Debug\SearchLibrary.pdb
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.CourseConsoleTest\obj\Debug\M8.D1.CourseConsoleTest.csprojResolveAssemblyReference.cache

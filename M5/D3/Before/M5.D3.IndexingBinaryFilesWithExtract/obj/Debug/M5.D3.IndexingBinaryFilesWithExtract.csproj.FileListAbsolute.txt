@@ -1,0 +1,7 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\M5.D3.IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\M5.D3.IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\M5.D3.IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M5\D3\Before\M5.D3.IndexingBinaryFilesWithExtract\bin\Debug\M5.D3.IndexingBinaryFilesWithExtract.exe.config

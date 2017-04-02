@@ -1,0 +1,16 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\IndexConsole.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\IndexConsole.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\HttpWebAdapters.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.DSL.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\HttpWebAdapters.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.DSL.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\bin\Debug\SolrNet.DSL.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\obj\Debug\IndexConsole.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\obj\Debug\IndexConsole.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\IndexConsole\obj\Debug\IndexConsole.pdb

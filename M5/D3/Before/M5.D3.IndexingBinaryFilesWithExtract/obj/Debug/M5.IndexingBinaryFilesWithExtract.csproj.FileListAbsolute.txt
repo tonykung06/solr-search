@@ -1,0 +1,19 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\HttpWebAdapters.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.DSL.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\HttpWebAdapters.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.DSL.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\bin\Debug\SolrNet.DSL.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\obj\Debug\M5.IndexingBinaryFilesWithExtract.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\IndexingBinaryFilesWithExtract\bin\Debug\IndexingBinaryFilesWithExtract.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Base Demos\IndexingBinaryFilesWithExtract\obj\Debug\IndexingBinaryFilesWithExtract.pdb

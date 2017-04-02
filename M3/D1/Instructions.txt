@@ -1,0 +1,18 @@
+The current demo sets up the environment required to run the search engine.
+
+Follow these instructions:
+- As prerequisite download Java 1.8.x from https://java.com/en/download/  
+- Confirm Java is installed correctly by running 'java -version' from the command line (Windows)
+- Download Solr 5.5 from http://archive.apache.org/dist/lucene/solr/5.5.0/
+- Select the correct download for your platform, i.e. Windows should be solr-5.5.0.zip 
+- Extract to your desired folder, i.e. C:\. Your base folder should be solr-5.5.0
+- Copy the Courses folder from Demos folder into \solr-5.5.0\server\solr
+- Open a command line and navigate inside the \solr-5.5.0 folder
+- Run 'bin\solr.cmd start'
+- Navigate to 'http://localhost:8983/solr/' to confirm Solr is running
+- If the Admin UI loads, you are all set. If it doesn't you can ask questions in the Discussion section in Pluralsight.
+- To create a core, use the following command from the command line
+	bin\solr.cmd create -c courses
+- To stop Solr run 'bin\solr.cmd stop -p 8983'
+
+

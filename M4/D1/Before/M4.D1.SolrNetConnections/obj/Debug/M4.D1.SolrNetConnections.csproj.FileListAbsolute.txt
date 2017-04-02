@@ -1,0 +1,16 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\M4.D1.SolrNetConnections.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\M4.D1.SolrNetConnections.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\M4.D1.SolrNetConnections.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\HttpWebAdapters.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.DSL.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\HttpWebAdapters.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.DSL.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\bin\Debug\SolrNet.DSL.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\obj\Debug\M4.D1.SolrNetConnections.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\obj\Debug\M4.D1.SolrNetConnections.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1\Before\M4.D1.SolrNetConnections\obj\Debug\M4.D1.SolrNetConnections.pdb

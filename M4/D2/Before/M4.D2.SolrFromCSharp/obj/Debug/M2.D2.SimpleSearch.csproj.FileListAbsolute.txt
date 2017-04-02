@@ -1,0 +1,16 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Before\M2.D2.SimpleSearch\bin\Debug\M2.D2.SimpleSearch.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\M2.D2.SimpleSearch.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\M2.D2.SimpleSearch.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\M2.D2.SimpleSearch.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\HttpWebAdapters.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.DSL.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\HttpWebAdapters.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.DSL.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\bin\Debug\SolrNet.DSL.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\obj\Debug\M2.D2.SimpleSearch.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M2\D2\Completed\M2.D2.SimpleSearch\obj\Debug\M2.D2.SimpleSearch.pdb

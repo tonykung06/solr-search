@@ -1,0 +1,14 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\IndexAllCourses.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\obj\Debug\IndexAllCourses.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\obj\Debug\IndexAllCourses.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\IndexAllCourses.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\IndexAllCourses.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\HttpWebAdapters.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\Newtonsoft.Json.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\Newtonsoft.Json.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\SolrNet.DSL.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\bin\Debug\SolrNet.DSL.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M6\D1\Before\IndexAllCourses\obj\Debug\IndexAllCourses.csprojResolveAssemblyReference.cache

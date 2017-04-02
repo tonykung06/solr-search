@@ -1,0 +1,5 @@
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.SearchLibrary\bin\Debug\SearchLibrary.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.SearchLibrary\bin\Debug\SearchLibrary.pdb
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.SearchLibrary\obj\Debug\M8.D1.SearchLibrary.csprojResolveAssemblyReference.cache
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.SearchLibrary\obj\Debug\SearchLibrary.dll
+D:\pluralsight-solr\Demos\M8\D1\Before\M8.D1.SearchLibrary\obj\Debug\SearchLibrary.pdb

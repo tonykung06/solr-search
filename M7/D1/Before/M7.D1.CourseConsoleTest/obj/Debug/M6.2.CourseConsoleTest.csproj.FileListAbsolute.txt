@@ -1,0 +1,14 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\CourseConsoleTest.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\obj\Debug\M6.2.CourseConsoleTest.csprojResolveAssemblyReference.cache
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\obj\Debug\CourseConsoleTest.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\CourseConsoleTest.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\obj\Debug\CourseConsoleTest.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\SearchLibrary.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\SolrNet.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\HttpWebAdapters.dll
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\SearchLibrary.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\SolrNet.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\SolrNet.xml
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\HttpWebAdapters.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\4.2.CourseConsoleTest\bin\Debug\HttpWebAdapters.xml

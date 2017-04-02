@@ -1,0 +1,87 @@
+In this demo we will learn how to improve relevancy
+*** Part 1: Modify fields used in querying
+- Step 1: In schema.xml remove copy field and reindex
+This is the field that you need to comment out
+	<!--copyField source="*" dest="_text_"/-->
+Reload the core and reindex
+Now when you run a search, you get 0 results. Reason is that before all queries were made to the default field _text_ 
+
+- Step 2: In solrconfig.xml we will modify to use the fields that we are interested in and will apply boosting
+Start by commenting out the df parameter in /select
+And then add the following lines to specify query parser and the query fields with boosting
+	<str name="defType">edismax</str>
+	<str name="qf">coursetitle^10.0 description^1.0 author^6.0 tags^5.0</str>
+Also show the difference between Xavier Morera and "Xavier Morera" as query
+
+*** Part 2: Boost Queries
+In this part we boost by a specific field, for example we want to boost all courses by Xavier
+Start by running a query for 'agile' and analyzing the results
+Now add the following boost query in /select in solrconfig.xml
+	<str name="bq">author:"Xavier Morera"^50</str>
+Now Xavier Morera will be boosted when any of his document's is relevant to the results
+Test it and then comment it out as it is too specific
+
+*** Part 3: Boost Functions
+Show boost by date by including in /select
+	<str name="bf">recip(ms(NOW,releasedate),3.16e-11,1,1)</str>
+Use debugQuery in Solr to show a small boost applied. 
+A boost should NOT be a sort by date!
+
+*** Part 4: Synonyms
+Currently searching for angular and angularjs bring back different results. This is a good improvement.
+For this purpose we use SynonymFilterFactory. 
+Currently it is enabled at query time, so leave only qf=coursetitle description and test with angular and angularjs. Reload core.
+Note the different results. Add angular,angularjs in synonyms.txt and test. Add back tags and author, results should be different.
+Add index time synonyms and test. Results should be the same.
+
+Part 5: Spellcheck
+- To enable the spellchecking start by deciding which component to use. 
+One simple way is to go to the wiki and get the index based spellchecking and replace in solrconfig.xml
+https://cwiki.apache.org/confluence/display/solr/Spell+Checking
+Use this one but replace field with the appropriate field (_text_) that you should enable copy field:
+<searchComponent name="spellcheck" class="solr.SpellCheckComponent">
+  <lst name="spellchecker">
+    <str name="classname">solr.IndexBasedSpellChecker</str>
+    <str name="spellcheckIndexDir">./spellchecker</str>
+    <str name="field">_text_</str>
+    <str name="buildOnCommit">true</str>
+    <!-- optional elements with defaults
+    <str name="distanceMeasure">org.apache.lucene.search.spell.LevensteinDistance</str>
+    <str name="accuracy">0.5</str>
+    -->
+ </lst>
+</searchComponent>
+
+- Enable spellchecker in the request handler you are using (can also be done from code)
+	<str name="spellcheck">true</str>
+	
+- Add last components to the request handler
+	<arr name="last-components">
+		<str>spellcheck</str>
+	</arr>
+
+- Reindex
+
+Part 6: Phonetic search
+- Test first with a word that does not exist but sounds similar, i.e. 'soular'
+- Start by creating the necessary type in schema.xml	
+	<fieldType name="phonetic" stored="true" indexed="true" class="solr.TextField" >
+		<analyzer>
+			<tokenizer class="solr.StandardTokenizerFactory"/>
+			<filter class="solr.DoubleMetaphoneFilterFactory" inject="false"/>
+		</analyzer>
+	</fieldType>
+	
+- The create the fields and populate them via copyfields
+	<field name="phoneticfield" type="phonetic" indexed="true" stored="true" multiValued="true" />
+	
+	<copyField source="coursetitle" dest="phoneticfield"/>
+	<copyField source="description" dest="phoneticfield"/>
+
+- And include as part of qf in solrconfig.xml
+	<str name="qf">coursetitle^10.0 description^1.0 phoneticfield^1.0</str>
+	
+- Reload core and test with 'soular'. Get results, be happy!
+
+
+

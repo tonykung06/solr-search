@@ -1,0 +1,4 @@
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1 - Copy\Before\M4.D2.SolrFromCSharp\bin\Debug\M4.D1.SolrNetConnections.exe.config
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1 - Copy\Before\M4.D2.SolrFromCSharp\obj\Debug\M4.D1.SolrNetConnections.exe
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1 - Copy\Before\M4.D2.SolrFromCSharp\obj\Debug\M4.D1.SolrNetConnections.pdb
+D:\Dropbox\xavier-morera-pluralsight-dev\pluralsight-solrnet\Demos\M4\D1 - Copy\Before\M4.D2.SolrFromCSharp\bin\Debug\M4.D2.SolrFromCSharp.exe.config

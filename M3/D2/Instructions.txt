@@ -1,0 +1,15 @@
+Instructions on how to set up the 'courses' core
+- In the previous demo we created the core by running the following command
+	\solr-5.5.0>bin\solr.cmd create -c courses
+- Confirm it is empty
+- Now index some data by running (I just want to show you how Solr's data driven schema creates fields and reloads the core - we will learn how to build this demo soon)
+	\pluralsight-solrnet\Demos\M3\D2\Index A Few Documents\M5.D1.IndexConsole.exe
+- In the query screen just execute query and you will see the indexed documents
+- This is data driven schema. Now let's learn how to specify explictly fields using schema.xml
+- Modify solrconfig.xml 
+	- To use ClassicIndexSchemaFactory as explained in the course and also available in Completed folder
+	- Comment out AddSchemaFieldsUpdateProcessorFactory
+	- Add as default field _text_
+- Modify schema.xml
+	- Add fields as explained in the course and also available in Completed folder
+	- Set unique key

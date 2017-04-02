@@ -1,0 +1,18 @@
+The current demo searches the course library for a course related to Solr
+
+URL: http://localhost:8983/solr/courses/select?q=solr%0A&wt=json&indent=true
+
+This demo requires a Solr search server with a Courses index to be up and running. This process will be explained thouroughly in the upcoming demos, but in case you want to set up right from the start, follow these instructions:
+- As prerequisite download Java from https://java.com/en/download/  
+- Check that it installed correctly by running java -version from the command line (Windows)
+- Download Solr 5.5 from http://archive.apache.org/dist/lucene/solr/5.5.0/
+- Select the correct download for your platform, i.e. Windows should be solr-5.5.0.zip 
+- Extract to your desired folder, i.e. C:\. Your base folder should be solr-5.5.0
+- Copy the 'coursesdemo' folder from Demos folder into \solr-5.5.0\server\solr
+- Open a command line and navigate inside the \solr-5.5.0 folder
+- Run bin\solr.cmd start
+- Navigate to http://localhost:8983/solr/ to confirm Solr is running
+- Now you can run the original URL in a browser and get results
+http://localhost:8983/solr/courses/select?q=solr%0A&wt=json&indent=true
+
+
